@@ -12,6 +12,7 @@
         <module>base</module>
         <module>ai</module>
         <module>algorithm-structure</module>
+        <module>leet-code</module>
     </modules>
 
     <!--<parent>-->
