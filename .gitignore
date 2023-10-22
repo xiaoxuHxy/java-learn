@@ -2,8 +2,8 @@
 *.class
 
 # Log file
-*.log
-*.error
+.log
+.error
 
 # BlueJ files
 *.ctxt
@@ -12,19 +12,20 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
-*.war
-*.nar
+.jar
+.war
+.nar
 *.ear
-*.zip
+.zip
 *.tar.gz
 *.rar
 
 #idea fle
-*.iml
+.iml
 /logs
 /idea
 /target
+/.idea
 
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
