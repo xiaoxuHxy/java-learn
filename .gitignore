@@ -21,7 +21,7 @@
 *.rar
 
 #idea fle
-.iml
+*.iml
 /logs
 /idea
 /target
